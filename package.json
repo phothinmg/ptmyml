@@ -1,0 +1,32 @@
+{
+  "name": "ptmyml",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "types": "./index.d.ts",
+  "module": "index.mjs",
+  "keywords": [],
+  "author": {
+    "name": "Pho Thin Mg",
+    "email": "phothinmg@disroot.org",
+    "url": "https://phothinmg.github.io/"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.0.1",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "index.js",
+    "index.mjs",
+    "index.d.ts"
+  ]
+}
